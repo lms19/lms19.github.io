@@ -1,1 +1,1 @@
-# lms19.github.io
+# Github Page for Bioinfomatics Course

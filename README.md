@@ -1,5 +1,5 @@
 # Minsi Lu's Github Page for Bioinformatics
-
+# 03/01/2023
 ## **Learning Plan for Bioinformatics**
 This semester, my goal is to gain a strong foundation in the principles and skills of bioinformatics. To achieve this goal, I plan to:
 

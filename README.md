@@ -6,7 +6,7 @@
 
 <td align="left"><p>Advanced Undergraduate,<br />
 Tsinghua University,<br />
-Room 329A, Building 4, Zijing Apartment, <br />
+Building 4, Zijing Apartment, <br />
 No. 30 Shuangqing Road, <br />
 Haidian District, <br />
 Beijing, China <br /> 

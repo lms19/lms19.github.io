@@ -1,4 +1,3 @@
-# Minsi Lu
 
 <td id="layout-content">
 <div id="toptitle">

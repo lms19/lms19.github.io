@@ -11,7 +11,7 @@ No. 30 Shuangqing Road, <br />
 Haidian District, <br />
 Beijing, China <br /> 
 E-mail: <a href="minsilu0330@gmail.com">minsilu0330@gmail.com</a></p>
-</td></tr></table>
+
 
 <h2>About me</h2>
 <p>I am a senior student at Tsinghua University, Beijing, where I major in pharmaceutical science and minor in software engineering.<br />

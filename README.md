@@ -13,7 +13,7 @@ Beijing, China <br />
 E-mail: <a href="minsilu0330@gmail.com">minsilu0330@gmail.com</a></p>
 
 
-<h2>About me</h2>
+<!-- <h2>About me</h2>
 <p>I am a senior student at Tsinghua University, Beijing, where I major in pharmaceutical science and minor in software engineering.<br />
   My research interests mainly focus on bioinformatics/computational biology.<br />
   Also, I have practiced in the laboratory of genomics/pharmacy at University of Washington, Peking University/Tsinghua University for a period of time.
@@ -26,7 +26,7 @@ E-mail: <a href="minsilu0330@gmail.com">minsilu0330@gmail.com</a></p>
   <li><p>High Throughput Omics Data Processing And Analysis Methods</p></li>
   <li><p>Single-cell Genomics</p></li>
 <!--   <li><p>Protein Structure Prediction</p></li> -->
-</ul>
+<!--</ul>
 <h3>Research Experiences</h3>
 <ol>
   <li><p>High-throughput genome-wide functional screening based on CRISPR, 07/2021 - 09/2021[<a href="slides/crispr.pdf">details</a>]</p></li>
@@ -44,4 +44,4 @@ E-mail: <a href="minsilu0330@gmail.com">minsilu0330@gmail.com</a></p>
     <li><p>Transformation and plasmid transfection experiments</p></li>
     <li><p>Worked based on Tiantian Li</p></li>
   </ul>
-</ol>
+</ol>-->
